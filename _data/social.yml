@@ -1,0 +1,9 @@
+#- title: Email
+#  url: mailto://vszhub@gmail.com
+#  icon: fas fa-envelope
+- title: Linkedin
+  url: https://www.linkedin.com/in/sebastian-martensson/
+  icon: fab fa-linkedin
+- title: GitHub
+  url: https://github.com/Supersoppan
+  icon: fab fa-github
