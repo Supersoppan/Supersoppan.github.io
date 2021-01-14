@@ -1,7 +1,7 @@
 # Setup
 title: Sebastian Mårtensson
 description: Economist, Data Scientist and Choirist
-url: https://vszhub.github.io
+url: https://supersoppan.github.io/
 avatar: /testprofilbild.gif
 paginate: 5
 permalink: pretty
@@ -15,6 +15,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole  
 
 # Optimize Jekyll
 exclude:
