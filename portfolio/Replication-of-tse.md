@@ -45,3 +45,5 @@ equation differs as we can see in (4) (Tsui and Ho, 2004):
 
 
 You can [download this paper](https://supersoppan.github.io/portfolio/Replicaiton-of-tse.pdf) here.
+
+<a href="/portfolio/pdf/Replication-of-tse.pdf" target="_blank">PDF.</a>
