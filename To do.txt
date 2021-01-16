@@ -1,0 +1,5 @@
+lägg till datum till portfölj posts
+
+korrigera datum till de portfölj posts som redan har datum
+
+copy paste projekten i portfolio/pages till _posts/portfolio

@@ -15,7 +15,9 @@
   
         {% assign filenameparts = file.path | split: "/" %}
         {% assign filename = filenameparts | last | replace: file.extname,"" %}
-        {% assign filenameclean = filename | replace: "-"," " %}  <!--  own comment: removes "-" from the title on portfolio page to make it prettier-->
+        {% assign removedate = filename | slice: 0,11 %} <!-- own comment: posts require that markdown posts have their publication date in the title. This doesn't look nice when presenting my portfolio, so I remove it from the name by first taking the date (this line) -->
+        {% assign filenameclean = filename | replace_first: removedate,"" %} <!-- own comment: the date mentoined above is then removed from here -->
+        {% assign filenameclean = filenameclean | replace: "-"," " %}  <!--  own comment: removes "-" from the title on portfolio page to make it prettier-->
         <a href="/portfolio/pages/{{ filename }}" title="{{ filenameclean }}" > <!--  own comment: change href to arrive at a different page whenever you click the image (or the text, use {{  to make the individual  }})-->
           <img src="{{ file.path }}" alt="{{ filenameclean }}"/>
           <span>{{ filenameclean }}</span>

@@ -3,6 +3,7 @@ layout: post
 Title: Replication of Tse - Conditional Heteroscedastic Volatility
 tags: [Economics, Climate, Time Series, Maps, Error Correction Model]
 math: true
+date: 2020-10-02 15:32 +0800
 ---
 <img src="/portfolio/pages-images/First-Master-Essay-pages.jpg" class="page-image" alt="">
 
