@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**Not Pure Poole** 
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+I am a masters student graduating in June of 2021 in Economics. I have specialised in Econometrics, Data Analysis and have been self studying Industrial Organizaiton. After graduation I want to work with quantitative methods or within the field of economics consulting. 
