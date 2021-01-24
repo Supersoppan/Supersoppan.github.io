@@ -4,6 +4,7 @@ Title: Web Scraping Petrol prices
 tags: [Climate, Economics, Time series, Web scraping]
 math: true
 ---
+Welcome to Not Pure Poole! This is an example post to show the layout. {: .message }
 <img src="https://images.unsplash.com/photo-1578849161904-f141cc69a5f9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=630&q=80" class="page-image" alt="">
 
 # Webscraping Petrol prices
@@ -54,7 +55,9 @@ Everytime you start your computer, the scheduler will start Bensin_Scraping.py w
 
 ## To-do list
 [] Remove redundancies before they're added to the main storage file Scraped.xlsx OR have a seperate program that removes redundancies but only when you call on it
+
 [] Introduce Swedish letters to make it more readable
+
 [] Look into and setup an SQL server so you can pull data from the server instead of an excel file.
 
 <a href="https://github.com/Supersoppan/Misc.-Projects/tree/main/Bensin_scraping" target="_blank">You can view the code and associated files here.</a>
