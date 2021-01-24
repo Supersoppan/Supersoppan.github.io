@@ -1,12 +1,12 @@
 ---
 layout: post
 Title: Web Scraping Petrol prices
-tags: [Finance, Economics, GARCH, Replication]
+tags: [Climate, Economics, Time series, Web scraping]
 math: true
 ---
 <img src="https://images.unsplash.com/photo-1578849161904-f141cc69a5f9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=630&q=80" class="page-image" alt="">
 
-# Bensin Scraping
+# Webscraping Petrol prices
 
 ## What is this?
 This is a small project I made in November of 2020 where I webscrape the webpage bensinpriser.nu for user inputed petrol prices for gas stations (Bensin means 'Petrol' in swedish hence the name). The website doesn't have any way to access it's historical data so I though I'd create one of my own. 
