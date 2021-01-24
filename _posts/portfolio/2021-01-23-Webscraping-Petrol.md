@@ -6,8 +6,6 @@ math: true
 ---
 <img src="https://images.unsplash.com/photo-1517443059487-054e8db674b5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80" class="page-image" alt="">
 
-# Webscraping Petrol prices
-
 ## What is this?
 This is a small project I made in November of 2020 where I webscrape the webpage bensinpriser.nu for user inputed petrol prices for gas stations (Bensin means 'Petrol' in swedish hence the name). The website doesn't have any way to access it's historical data so I though I'd create one of my own. 
 It contains the names and adress of the gas station, colour(which represent the type of user that inputed the price), Price, Date Entered (into the website), and Date Collected (which is when I scraped the website).
