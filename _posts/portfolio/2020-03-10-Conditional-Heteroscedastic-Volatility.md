@@ -3,7 +3,6 @@ layout: post
 Title: Replication of Tse - Conditional Heteroscedastic Volatility
 tags: [Finance, Economics, GARCH, Replication]
 math: true
-date: 2020-10-02 15:32 +0800
 ---
 <img src="/portfolio/pages-images/Conditional-Heteroscedastic-Volatility-page.jpg" class="page-image" alt="">
 

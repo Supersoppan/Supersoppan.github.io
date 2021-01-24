@@ -11,4 +11,4 @@ math: true
 provide abstract here
 </em>
 
-<a href="/portfolio/pdf/Replication-of-Tse.pdf" target="_blank">You can view the paper here.</a>
+<a href="https://github.com/Supersoppan/Misc.-Projects/tree/main/Bensin_scraping" target="_blank">You can view the code and associated files here.</a>
